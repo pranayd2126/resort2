@@ -1,4 +1,4 @@
-const API_URL = 'http://16.112.233.46:5000/api';
+const API_URL = 'https://api.dandapranayreddy.in/api';
 // const API_URL = 'http://localhost:5000/api';
 
 
