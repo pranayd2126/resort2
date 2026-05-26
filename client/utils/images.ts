@@ -8,7 +8,7 @@
 // export { getImageUrl };
 
 
-const API_URL = "http://16.112.233.46:5000";
+const API_URL = "https://api.dandapranayreddy.in";
 
 const getImageUrl = (path: string) => {
   if (!path) return "https://via.placeholder.com/600x400?text=No+Image";
